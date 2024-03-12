@@ -1,5 +1,4 @@
-
-MADHIHA,02:36:07,01/03/2024
-SUNDARPICHAI,02:39:43,01/03/2024
-MARK,02:39:56,01/03/2024
-SHAIK,02:41:23,01/03/2024
+id,name,department,time,date
+2,MADHIHA,Electrical Engineering,21:11:49,12/03/2024
+3,MARK,Mechanical Engineering,21:18:44,12/03/2024
+1,JANANI,Computer Science,21:19:48,12/03/2024
